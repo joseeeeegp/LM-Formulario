@@ -3,17 +3,17 @@
     "question": [
       {
         "type": "text",
-        "title": "¿Cual es el nombre de la ciudad principal?",
+        "title": "Â¿Cual es el nombre de la ciudad principal?",
         "answer": "Bocasucia"
       },
       {
         "type": "text",
-        "title": "¿Como se llama la moneda de este mundo?",
+        "title": "Â¿Como se llama la moneda de este mundo?",
         "answer": "Geo"
       },
       {
         "type": "select",
-        "title": "¿Como se llama la chica con la que peleamos varias veces a lo largo del juego?",
+        "title": "Â¿Como se llama la chica con la que peleamos varias veces a lo largo del juego?",
         "option": [
           "Iselda",
           "Hornet",
@@ -24,7 +24,7 @@
       },
       {
         "type": "select",
-        "title": "¿Cual es el nombre del \"Todopoderoso\"?",
+        "title": "Â¿Cual es el nombre del \"Todopoderoso\"?",
         "option": [
           "Zote",
           "Alvaro",
@@ -35,7 +35,7 @@
       },
       {
         "type": "multiple",
-        "title": "¿Cuales son los nombres de los maestros que te enseñan nuevos ataques de tu arma? ",
+        "title": "Â¿Cuales son los nombres de los maestros que te enseÃ±an nuevos ataques de tu arma? ",
         "option": [
           "Mato",
           "Oro",
@@ -50,12 +50,12 @@
       },
       {
         "type": "multiple",
-        "title": "¿Cuales son todas las magias que podemos conseguir?",
+        "title": "Â¿Cuales son todas las magias que podemos conseguir?",
         "option": [
-          "Espíritu vengativo",
+          "EspÃ­ritu vengativo",
           "Salto desolador",
           "Espectros aulladores",
-          "Explosión de almas"
+          "ExplosiÃ³n de almas"
         ],
         "answer": [
           "0",
@@ -65,7 +65,7 @@
       },
       {
         "type": "checkbox",
-        "title": "¿Cuales de los siguientes enemigos son Jefes?",
+        "title": "Â¿Cuales de los siguientes enemigos son Jefes?",
         "option": [
           "Tirano de almas",
           "Goam",
@@ -79,12 +79,12 @@
       },
       {
         "type": "checkbox",
-        "title": "¿Cuales de las siguientes zonas existen en el mundo de Hollow Knight?",
+        "title": "Â¿Cuales de las siguientes zonas existen en el mundo de Hollow Knight?",
         "option": [
           "Caminos del silencio",
           "Ciudad de lagrimas",
           "Sendero verde",
-          "Páramos desolados"
+          "PÃ¡ramos desolados"
         ],
         "answer": [
           "1",
@@ -93,7 +93,7 @@
       },
       {
         "type": "radio",
-        "title": "¿Que arma utiliza el protagonista de este juego?",
+        "title": "Â¿Que arma utiliza el protagonista de este juego?",
         "option": [
           "Una espada",
           "Una aguja",
@@ -104,12 +104,12 @@
       },
       {
         "type": "radio",
-        "title": "¿Como se llama el objeto que te permite hacer un doble salto?",
+        "title": "Â¿Como se llama el objeto que te permite hacer un doble salto?",
         "option": [
           "Capa de polilla",
           "Alas de monarca",
           "Lagrima de isma",
-          "Corazón de cristal"
+          "CorazÃ³n de cristal"
         ],
         "answer": "1"
       }
