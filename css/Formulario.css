@@ -58,10 +58,14 @@ textarea{
 
 select{
 	margin-left:5%;
+	width:40%;
+	font-size:2vw
 }
 
 input{
 	margin-left:5%;
+	width:40%;
+	font-size:2vw
 }
 
 checkbox{
