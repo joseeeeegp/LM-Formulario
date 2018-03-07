@@ -8,7 +8,7 @@ Link del rawgit:https://rawgit.com/JuanAntonioBieto/LM-Formulario/master/Princip
 
 ### La página principal contiene:
 
-Un logo que representa a la página
+Un logo que representa a la página.
 
 Una parte que se utiliza como menú y tiene 3 botones: 
 
