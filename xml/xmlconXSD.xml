@@ -4,12 +4,12 @@
 	<question>
 		<type>text</type>
 		<title>¿Cual es el nombre de la ciudad principal?</title>
-		<answer>Bocasucia</answer>
+		<answer>bocasucia</answer>
 	</question>
 	<question>
 		<type>text</type>
 		<title>¿Como se llama la moneda de este mundo?</title>
-		<answer>Geo</answer>
+		<answer>geo</answer>
 	</question>
 	<question>
 		<type>select</type>
