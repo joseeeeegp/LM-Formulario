@@ -62,7 +62,7 @@ select{
 	font-size:2vw
 }
 
-input{
+input[type=text]{
 	margin-left:5%;
 	width:40%;
 	font-size:2vw
